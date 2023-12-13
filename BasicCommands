@@ -1,0 +1,4 @@
+Basic Commands 
+add-adds new or changed files in your working directory to the git straging area.
+Commit-it is therecord of change   git commint -m "some message" 
+push-upload local repo content to remote repo  git push origin main
